@@ -72,13 +72,6 @@ public class Main {
     }
   }
 
-  /**
-   * Part 3: Using invokeAll() and invokeAny()
-   * Task 3: Execute Multiple Tasks and Retrieve Results
-   * Create three Callable tasks that return different messages after a random delay.
-   * Use invokeAll() to execute all tasks and retrieve their results.
-   * Use invokeAny() to return the first completed task.
-   */
   private static void task3() {
     System.out.printf("%n%s%n", "### Labs - Part 3");
 
